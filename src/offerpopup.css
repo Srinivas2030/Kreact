@@ -1,0 +1,174 @@
+.popup-start{
+    display: flex;
+width: 1440px;
+height: 1024px;
+padding: 160px 167px 159px 166px;
+justify-content: center;
+align-items: center;
+background: #FFF;
+
+
+}
+.btn-cancelsss{
+    position: absolute;
+    margin-left: 69.5%;
+    margin-top: -152px;
+}
+
+
+.offerpopup{
+    display: flex;
+    justify-content: center;
+    width: 1107px;
+height: 705px;
+flex-shrink: 0;
+position: relative;
+}
+.textname{
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.24);
+    width: 554px;
+height: 705px;
+flex-shrink: 0;
+justify-content: center;
+text-align: center;
+}
+
+.imagename{
+    width: 554px;
+height: 706px;
+flex-shrink: 0;
+}
+.specialwash{
+    color: #000;
+    font-family: Poppins;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 430px;
+    margin-left: 56px;
+    margin-top: -26px;
+}
+
+.specialnew{
+    color: #000;
+    font-family: Poppins;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.specialoff{
+    color: #FC8F05;
+    font-family: Poppins;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.hero-text{
+    margin-top: 152px;
+}
+
+.btn-popupsss{
+    display: flex;
+width: 389px;
+height: 58px;
+padding: 10px 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #FC8F05;
+box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.30);
+color: #000;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 77px;
+margin-top: 100px;
+
+z-index: 1;
+    position: absolute;
+}
+
+.imagename1{
+    position: relative;
+    margin: -131px;
+    margin-top: -68px;
+    margin-left: -274px;
+  
+}
+
+.imagename2{
+    position: absolute;
+    margin: 94px;
+    margin-left: 133px;
+    z-index: 2;
+
+
+  
+}
+
+
+
+
+@media screen and (max-width: 800px) and (min-width:600px) {
+
+
+    .popup-start { 
+      margin-top:200px;
+    }
+    }
+
+
+
+    
+@media screen and (max-width: 599px) and (min-width:400px) {
+
+
+    .popup-start { 
+      margin-top:400px;
+    }
+    }
+
+
+    @media screen and (max-width: 399px) and (min-width:351px) {
+
+
+        .popup-start { 
+          margin-top:500px;
+        }
+        }
+
+
+        @media screen and (max-width: 350px) and (min-width:316px) {
+
+
+            .popup-start { 
+              margin-top:500px;
+              width: 1300px;
+            }
+            }
+
+
+            @media screen and (max-width: 315px) and (min-width:250px) {
+
+
+                .popup-start { 
+                  margin-top:500px;
+                  width: 1000px;
+                  height: 1228px;
+
+                }
+
+
+                
+                }
